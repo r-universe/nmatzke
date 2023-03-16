@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cladoRcpp",
+    "oncran": true
+  },
+  {
+    "package": "rexpokit",
+    "oncran": true
+  }
+]
