@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cladoRcpp"]
 	path = cladoRcpp
 	url = https://github.com/nmatzke/cladorcpp
-	shallow = true
-	registered = true
 [submodule "rexpokit"]
 	path = rexpokit
 	url = https://github.com/nmatzke/rexpokit
-	shallow = true
-	registered = true
